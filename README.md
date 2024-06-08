@@ -49,7 +49,7 @@ The web page displays a gallery of images with overlay text that reacts to hover
 
 ## Deployment
 
-**[Live](https://coa-take-home-challenge.vercel.app/)**
+**[Live](https://coa-take-home-challenge-mjbb.vercel.app/)**
 
 ## Coding Challenges
 
